@@ -1,4 +1,4 @@
-# Por Trás da Marca — site
+# Caixa-Preta das Marcas — site
 
-Página inicial e política de privacidade do canal [Por Trás da Marca](https://www.youtube.com/@portrasdamarcabr), servidas pelo GitHub Pages.
+Página inicial e política de privacidade do canal [Caixa-Preta das Marcas](https://www.youtube.com/@caixapretadasmarcasbr), servidas pelo GitHub Pages.
 O Google pede estas páginas para publicar o app OAuth "Estudio Canal".
